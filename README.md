@@ -25,10 +25,10 @@ Start a new session and ask which writing instructions are active. Check that th
 
 ## Privacy
 
-The package contains abstract style guidance, without source addresses, article titles, excerpts, or personal history. Applying it requires no browsing, account access, or retrieval of past writing. Facts needed for a new task are separate from style-learning material.
+The package contains abstract style guidance, without source addresses, article titles, excerpts, or personal history. The examples are invented and follow the privacy rules at the top of `EXAMPLES.md`. Applying it requires no browsing, account access, or retrieval of past writing. Facts needed for a new task are separate from style-learning material.
 
 This protects the contents of the package; it does not anonymize its owner, erase conversation history, or control provider logs. Before publishing, check repository history and hosting metadata separately.
 
 ## Maintenance
 
-Only `SKILL.md` needs to be loaded during use. `STYLE_PROFILE.md` records the basis and limits of the guidance. `tests/README.md` contains synthetic review cases, not a source corpus or an automated test suite.
+Only `SKILL.md` needs to be loaded during use. `EXAMPLES.md` shows the guidance applied to invented before-and-after cases. It is optional calibration material, not a source corpus or an automated test suite. `STYLE_PROFILE.md` records the basis and limits of the guidance.
